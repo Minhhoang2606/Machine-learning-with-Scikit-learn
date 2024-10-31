@@ -19,7 +19,6 @@ Additionally, it explores the use of scikit-learn pipelines to maintain cleaner 
 
 - **`notebooks/`**: Jupyter notebooks for each machine learning technique, with detailed explanations and code examples.
 - **`data/`**: Sample datasets used in various examples and exercises.
-- **`scripts/`**: Standalone Python scripts demonstrating end-to-end model building with scikit-learn pipelines.
   
 ## Key Features
 
